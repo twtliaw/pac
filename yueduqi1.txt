@@ -9,14 +9,6 @@
 "isNKSGS":"1",
 "isNKSGSr":"1",
 "adidA":"EL+iRDv1TFRp3NbGIXBIzArOd6h/yQzBsIXzuxBqABi1MkRNoY3sNsWDxvAyps4dIC7UV9ENNMt/I79F7fMvUeV0TplDBi0ehBbXyd3XauRU9lDKpWWGNECzXnPEaZ3wa/fLiN98cYWwSbmA7Kij+KH8Cz5aDG+WjphhiNlTX5AIZZzUkheP9sM4kagvoBZSEpeczmVsfJAb55fuiGei2J00HmjPdkS/ShzYeYpmIpfwu8lQ5N6ucCH+uR3xKW7mS1Ipya4CSy0XsVQg4DsobFWK4MCDYmYn2hkyVFYmTwVYbwIIKnRbn8DtLUhmdBKQ5fnSems/7f3A4wrHatVFy0chQcttWllJHsVhT5qBNnTW0139yAGvPGuC5rKGw0KyWPlrHm/iRoFwsRQ2Dik/bz4ijGXcqhGm2syxEfVPIRJ3hemKFV30imJSnDYv5n/o",
-"serverAd":[
-{
-"isWeb":"1",
-"url":"https://raw.githubusercontent.com/twtliaw/pac/master/help.txt",
-"image":"http://img.hb.aicdn.com/372ca588020cce3e61cc82e5fbea781391d848b8470a-VXcMXl",
-"title":"小说没章节看这里"
-}
-],
 "discover":[
 {
 "type":"2",
