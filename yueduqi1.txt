@@ -12,8 +12,8 @@
 "serverAd":[
 {
 "isWeb":"1",
-"url":"",
-"image":"http://7fvjim.com1.z0.glb.clouddn.com/new.png",
+"url":"https://raw.githubusercontent.com/twtliaw/pac/master/help.txt",
+"image":"http://img.hb.aicdn.com/372ca588020cce3e61cc82e5fbea781391d848b8470a-VXcMXl",
 "title":"小说没章节看这里"
 }
 ],
