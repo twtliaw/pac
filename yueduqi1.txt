@@ -1,8 +1,7 @@
 {
 "adXishu":"0.7",
 "QQnumber":"850467163",
-"nPage":"13",
-"isClickAdView":"6000",
+"nPage":"10",
 "isBAd":"1",
 "arnum":"5,2000,20000",
 "isInputAdCode":"1",
